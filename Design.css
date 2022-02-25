@@ -1,0 +1,55 @@
+.header{
+    color: rgb(57, 62, 92);
+    padding-left: 680px;
+    font: bold;
+}
+
+.body{
+    background-color: rgb(250, 250, 250);
+}
+
+user_input{
+    color: white;
+    border-bottom: 2px solid gray;
+    line-break: normal;
+    text-align: left;
+    display: block;
+    font: bold;
+
+}
+
+.button{
+    background-color: rgba(18, 141, 212, 0.801);
+    border: 2px solid rgba(18, 141, 212, 0.801);
+    border-radius: 5px;
+    color: white;
+    font: bold;
+    width: 50px;
+    margin-top: -25px;
+    margin-left: 250px;
+}
+
+.input{
+    background-color: rgb(236, 236, 236);
+    width: auto;
+    border: 4px solid rgb(236, 236, 236);
+    border-radius: 20px;
+}
+
+.first_DIV{
+    background-color: rgb(27, 26, 26);
+    border: 5px solid rgb(27, 26, 26);
+    border-radius: 15px;
+    height: auto;
+    width: 300px;
+    margin: 0 auto;
+}
+.second_DIV{
+    height: 50px;
+    width: 200;
+}
+
+.third_DIV{
+    width: 200;
+
+}
